@@ -1,0 +1,5 @@
+export const SET_IS_ERROR = "setIsError"
+export const SET_IS_LOADING = "setIsLoading"
+export const SET_PERFOMANCE = "setPerfomance"
+export const SET_PERFOMANCE_CHART = "setPerfomanceChart"
+export const SET_PERFOMANCE_DETAIL = "setPerfomanceDetail"
